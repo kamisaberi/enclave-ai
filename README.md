@@ -185,4 +185,3 @@ Distributed under the **Apache 2.0 License**. See [`LICENSE`](LICENSE) for detai
 - **GitHub:** [@kamisaberi](https://github.com/kamisaberi)
 - **LinkedIn:** [kamisaberi](https://linkedin.com/in/kamisaberi)
 - **Email:** [kamisaberi@gmail.com](mailto:kamisaberi@gmail.com)
-```
