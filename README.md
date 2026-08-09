@@ -1,10 +1,3 @@
-Here is a complete, production-grade **`README.md`** for your **`enclave-ai`** repository.
-
-You can copy and paste this directly into your GitHub repository (`github.com/kamisaberi/enclave-ai`).
-
----
-
-```markdown
 # enclave-ai
 
 [![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://en.cppreference.com/w/cpp/20)
